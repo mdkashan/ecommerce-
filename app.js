@@ -1,7 +1,7 @@
 AOS.init();
 
 let visible = false;
-let menu = document.getElementById('menu');
+let menu = document.getElementById('menu')
 menu.addEventListener('click',()=>{
 
   if(visible === false){
